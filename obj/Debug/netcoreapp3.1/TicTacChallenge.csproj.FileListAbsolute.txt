@@ -1,0 +1,13 @@
+C:\Users\kilgharrah\source\repos\c#masterclass\TicTacChallenge\bin\Debug\netcoreapp3.1\TicTacChallenge.exe
+C:\Users\kilgharrah\source\repos\c#masterclass\TicTacChallenge\bin\Debug\netcoreapp3.1\TicTacChallenge.deps.json
+C:\Users\kilgharrah\source\repos\c#masterclass\TicTacChallenge\bin\Debug\netcoreapp3.1\TicTacChallenge.runtimeconfig.json
+C:\Users\kilgharrah\source\repos\c#masterclass\TicTacChallenge\bin\Debug\netcoreapp3.1\TicTacChallenge.runtimeconfig.dev.json
+C:\Users\kilgharrah\source\repos\c#masterclass\TicTacChallenge\bin\Debug\netcoreapp3.1\TicTacChallenge.dll
+C:\Users\kilgharrah\source\repos\c#masterclass\TicTacChallenge\bin\Debug\netcoreapp3.1\TicTacChallenge.pdb
+C:\Users\kilgharrah\source\repos\c#masterclass\TicTacChallenge\obj\Debug\netcoreapp3.1\TicTacChallenge.csprojAssemblyReference.cache
+C:\Users\kilgharrah\source\repos\c#masterclass\TicTacChallenge\obj\Debug\netcoreapp3.1\TicTacChallenge.AssemblyInfoInputs.cache
+C:\Users\kilgharrah\source\repos\c#masterclass\TicTacChallenge\obj\Debug\netcoreapp3.1\TicTacChallenge.AssemblyInfo.cs
+C:\Users\kilgharrah\source\repos\c#masterclass\TicTacChallenge\obj\Debug\netcoreapp3.1\TicTacChallenge.csproj.CoreCompileInputs.cache
+C:\Users\kilgharrah\source\repos\c#masterclass\TicTacChallenge\obj\Debug\netcoreapp3.1\TicTacChallenge.dll
+C:\Users\kilgharrah\source\repos\c#masterclass\TicTacChallenge\obj\Debug\netcoreapp3.1\TicTacChallenge.pdb
+C:\Users\kilgharrah\source\repos\c#masterclass\TicTacChallenge\obj\Debug\netcoreapp3.1\TicTacChallenge.genruntimeconfig.cache
