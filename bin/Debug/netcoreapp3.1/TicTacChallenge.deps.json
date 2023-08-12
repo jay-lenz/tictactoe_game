@@ -15,7 +15,7 @@
   },
   "libraries": {
     "TicTacChallenge/1.0.0": {
-      "type": "project"
+      "type": "project",
       "serviceable": false,
       "sha512": ""
     }
