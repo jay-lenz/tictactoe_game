@@ -25,7 +25,7 @@ namespace TicTacChallenge
 
         public static void TicTac()
         { 
-            var playerId = true;
+            var playerId = true
             int cnt =0;
             var status = true;
             while (status == true)
