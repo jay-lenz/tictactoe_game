@@ -12,7 +12,7 @@ namespace TicTacChallenge
         public static void ShowTac()
         {
             Console.Clear();
-            for (int a = 0; a < 3; a++)
+            for (int a = 0; a < 3; a++
             {
                 for (int b = 0; b < 3; b++)
                 {
