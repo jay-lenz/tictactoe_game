@@ -23,7 +23,7 @@ namespace TicTacChallenge
             }
         }
 
-        public static void TicTac(
+        public static void TicTac()
         { 
             var playerId = true;
             int cnt =0;
