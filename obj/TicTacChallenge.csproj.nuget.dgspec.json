@@ -34,7 +34,7 @@
           "warnAsError": [
             "NU1605"
           ]
-        
+        }
       },
       "frameworks": {
         "netcoreapp3.1": {
