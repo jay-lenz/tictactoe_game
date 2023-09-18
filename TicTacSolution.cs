@@ -21,7 +21,7 @@ namespace TicTacChallenge
                 Console.WriteLine();
                 Console.WriteLine("---------");
             }
-        
+        }
 
         public static void TicTac()
         { 
