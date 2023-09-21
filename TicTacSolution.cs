@@ -9,7 +9,7 @@ namespace TicTacChallenge
                 {"4","5","6" },
                 {"7","8","9" }
           };
-        public static void ShowTac()
+        public static void ShowTac(
         {
             Console.Clear();
             for (int a = 0; a < 3; a++)
